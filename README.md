@@ -30,13 +30,13 @@
 
 ### 📌 Featured Projects
 
-#### 🟢 [BidBoard](https://github.com/SarthakSarthak05-code/Freelance---BiddingSystem)
+#### 🟢 [BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)
 A freelance task bidding platform with three roles — client, freelancer, and admin — built using vanilla **PHP** and **MySQL**, no frameworks. Includes bid management, role-based dashboards, and a full project proposal with ER diagrams, DFDs, and use case diagrams.
 
 #### 🟢 Course Recommender
 A course recommendation system built with **Spring Boot**, **Spring Data JPA**, **Thymeleaf**, and **MySQL**, with CI configured via GitHub Actions.
 
-#### 🟢 [Hostel Management System](https://github.com/SarthakSarthak05-code/hostel-management-system)
+#### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
 A two-portal hostel management system (admin + student) built with vanilla **PHP** and **MySQL**. Features include attendance tracking, fee management with overdue detection, and a notice board system.
 
 ---
