@@ -39,5 +39,19 @@ A course recommendation system built with **Spring Boot**, **Spring Data JPA**, 
 #### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
 A two-portal hostel management system (admin + student) built with vanilla **PHP** and **MySQL**. Features include attendance tracking, fee management with overdue detection, and a notice board system.
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak05-code&hide_border=true" />
+</p>
+
+---
 
 <p align="center"><i>Thanks for stopping by — always open to feedback on my projects!</i></p>
