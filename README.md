@@ -33,7 +33,7 @@
 #### 🟢 [BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)
 A freelance task bidding platform with three roles — client, freelancer, and admin — built using vanilla **PHP** and **MySQL**, no frameworks. Includes bid management, role-based dashboards, and a full project proposal with ER diagrams, DFDs, and use case diagrams.
 
-#### 🟢 Course Recommender
+#### 🟢 [Course Recommender](#) <!-- Replace the # with your actual repository link! -->
 A course recommendation system built with **Spring Boot**, **Spring Data JPA**, **Thymeleaf**, and **MySQL**, with CI configured via GitHub Actions.
 
 #### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
@@ -44,12 +44,12 @@ A two-portal hostel management system (admin + student) built with vanilla **PHP
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=default&hide_border=true" alt="Sarthak's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak05-code&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak05-code&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
