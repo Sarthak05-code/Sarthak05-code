@@ -44,12 +44,12 @@ A two-portal hostel management system (admin + student) built with vanilla **PHP
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=default&hide_border=true" alt="Sarthak's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=default&hide_border=true&v=1" alt="Sarthak's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak05-code&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sarthak05-code&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 ---
