@@ -17,6 +17,7 @@
 * 🛠️ **Philosophy:** I enjoy recreational programming and building full-stack projects to learn by doing.
 * 🚀 **Next on my list:** **React**, **MySQL**, and **Networking**
 
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -77,7 +78,7 @@
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Sarthak's GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -89,4 +90,3 @@
 <p align="center">
   <i>Thanks for stopping by — always open to feedback on my projects! 🚀</i>
 </p>
-
