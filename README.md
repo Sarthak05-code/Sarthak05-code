@@ -91,6 +91,4 @@
   <i>Thanks for stopping by — always open to feedback on my projects! 🚀</i>
 </p>
 
-<p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/Sarthak05-code">Sarthak Thapa</a></sub>
-</p>
+
