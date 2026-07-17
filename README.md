@@ -16,7 +16,6 @@
 * 🌱 **Currently Learning:** **Java** and **Spring Boot**
 * 🛠️ **Philosophy:** I enjoy recreational programming and building full-stack projects to learn by doing.
 * 🚀 **Next on my list:** **React**, **MySQL**, and **Networking**
-* 📫 **Reach me:** Connect with me through my [GitHub profile](https://github.com/Sarthak05-code)
 
 ---
 
