@@ -53,25 +53,22 @@
 
 ### 📌 Featured Projects
 
-#### 🟢 **[BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)**
-> *A freelance task bidding platform featuring robust role-based access control.*
-* **Roles:** Client, Freelancer, and Admin.
-* **Key Features:** Role-specific dashboards, dynamic project bidding, proposal tracking, and bid management.
-* **Documentation:** Fully documented architecture with ER diagrams, DFDs, and use case diagrams.
-* **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
+#### 🟢 [BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)
 
-#### 🟢 **[Course Recommender](https://github.com/Sarthak05-code/Course-Recommender)**  <!-- Replace with your actual repository link if different! -->
-> *An intelligent course recommendation engine designed to guide learning paths.*
-* **Key Features:** Tailored course suggestions, relational database integration, and high performance.
-* **DevOps:** Setup with custom continuous integration (CI) via **GitHub Actions**.
-* **Tech Stack:** `Java`, `Spring Boot`, `Spring Data JPA`, `Thymeleaf`, `MySQL`
+> A freelance task bidding platform featuring robust role-based access control.
 
-#### 🟢 **[Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)**
-> *A dual-portal administrative and student management ecosystem.*
-* **Portals:** Admin Portal & Student Portal.
-* **Key Features:** Daily attendance monitoring, financial ledger/fee management with automatic overdue detection, and a real-time notice board.
-* **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
+- **Roles:** Client, Freelancer, and Admin
+- **Key Features:** Role-specific dashboards, dynamic project bidding, proposal tracking, and bid management
+- **Documentation:** Fully documented architecture with ER diagrams, DFDs, and use case diagrams
+- **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
 
+#### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
+
+> A dual-portal administrative and student management ecosystem.
+
+- **Portals:** Admin Portal and Student Portal
+- **Key Features:** Daily attendance monitoring, financial ledger and fee management with automatic overdue detection, and a real-time notice board
+- **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
 ---
 
 ### 📊 GitHub Stats
