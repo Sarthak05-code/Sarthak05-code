@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sarthak Thapa</h1>
 
 <h3 align="center">
+
   A beginner backend developer learning Java, Spring Boot, Go, and building things from scratch
+
 </h3>
 
 <p align="center">
@@ -18,8 +20,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Education:** BCA student based in **Kathmandu, Nepal** 🇳🇵
+
 - 🌱 **Currently Learning:** **Java**, **Spring Boot**, and **Go**
+
 - 🛠️ **Philosophy:** I enjoy recreational programming and building full-stack projects to learn by doing.
+
 - 🚀 **Next on my list:** **React**, **MySQL**, and **Networking**
 
 ---
@@ -30,80 +35,29 @@
   <tr>
     <td valign="top" width="50%">
       <h4>🖥️ Backend & Languages</h4>
-
-      <img
-        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-        alt="Java"
-      />
-
-      <img
-        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-        alt="Go"
-      />
-
-      <img
-        src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-        alt="PHP"
-      />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     </td>
-
     <td valign="top" width="50%">
       <h4>🗄️ Database & Frontend</h4>
-
-      <img
-        src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-        alt="MySQL"
-      />
-
-      <img
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-        alt="HTML5"
-      />
-
-      <img
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-        alt="CSS3"
-      />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
-
   <tr>
     <td valign="top" width="50%">
       <h4>⚙️ Frameworks & Tools</h4>
-
-      <img
-        src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
-        alt="Spring Boot"
-      />
-
-      <img
-        src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-        alt="Spring Data JPA"
-      />
-
-      <img
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-        alt="Git"
-      />
-
-      <img
-        src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
-        alt="GitHub Actions"
-      />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     </td>
-
     <td valign="top" width="50%">
       <h4>📚 Currently Learning</h4>
-
-      <img
-        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-        alt="Go"
-      />
-
-      <img
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        alt="React"
-      />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </td>
   </tr>
 </table>
@@ -117,8 +71,11 @@
 > A freelance task bidding platform featuring robust role-based access control.
 
 - **Roles:** Client, Freelancer, and Admin
+
 - **Key Features:** Role-specific dashboards, dynamic project bidding, proposal tracking, and bid management
+
 - **Documentation:** Fully documented architecture with ER diagrams, DFDs, and use case diagrams
+
 - **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
 
 #### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
@@ -126,10 +83,15 @@
 > A dual-portal administrative and student management ecosystem built with Java and Spring Boot.
 
 - **Portals:** Admin Portal and Student Portal
+
 - **Key Features:** Daily attendance monitoring, financial ledger and fee management with automatic overdue detection, and a real-time notice board
+
 - **Backend:** `Java`, `Spring Boot`, `Spring Data JPA`
+
 - **Frontend:** `Thymeleaf`, `HTML5`, `CSS3`
+
 - **Database:** `MySQL`
+
 - **Additional Tools:** `Git`, `GitHub Actions`
 
 ---
@@ -142,7 +104,6 @@
     src="https://github-stats-extended.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Sarthak's GitHub Stats"
   />
-
   <img
     height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
