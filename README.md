@@ -64,11 +64,14 @@
 
 #### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
 
-> A dual-portal administrative and student management ecosystem.
+> A dual-portal administrative and student management ecosystem built with Java and Spring Boot.
 
 - **Portals:** Admin Portal and Student Portal
 - **Key Features:** Daily attendance monitoring, financial ledger and fee management with automatic overdue detection, and a real-time notice board
-- **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
+- **Backend:** `Java`, `Spring Boot`, `Spring Data JPA`
+- **Frontend:** `Thymeleaf`, `HTML5`, `CSS3`
+- **Database:** `MySQL`
+- **Additional Tools:** `Git`, `GitHub Actions`
 ---
 
 ### 📊 GitHub Stats
