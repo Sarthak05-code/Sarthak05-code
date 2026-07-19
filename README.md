@@ -94,6 +94,19 @@
 
 - **Additional Tools:** `Git`, `GitHub Actions`
 
+#### 🟢 [Database Backup & Recovery Hub](https://github.com/Sarthak05-code/databaseRecovery-app)
+
+> A production-ready, high-performance database management utility written in Go for automated MySQL/MariaDB backups and disaster recovery.
+
+- **Dual run modes** — CLI for terminal/cron operations and a local web dashboard for interactive management
+- **Streaming gzip compression** — Directly streams dump output into `.sql.gz` archives, avoiding large intermediate files
+- **Secure credential handling** — Supports `DB_PASSWORD` env var, hidden terminal prompts, and masked web-form inputs
+- **Concurrency protection** — Uses `dbbackup_operation.lock` to prevent simultaneous operations
+- **Graceful interruption handling** — Cleans up locks and temp files before exiting on `Ctrl+C`
+- **Slack notifications** — Optional operation completion alerts via incoming webhooks
+
+- **Tech Stack:** `Go`, `Cobra CLI`, `MySQL/MariaDB`, `HTML5`, `JavaScript`
+
 ---
 
 ### 📊 GitHub Stats
