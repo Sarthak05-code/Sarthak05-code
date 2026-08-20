@@ -114,19 +114,19 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="Sarthak's GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Sarthak05-code&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak05-code&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
