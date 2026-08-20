@@ -13,6 +13,7 @@
       alt="GitHub Profile"
     />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Sarthak05-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -109,10 +110,34 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak05-code&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/Sarthak05-code">
+    <img src="https://komarev.com/ghpvc/?username=Sarthak05-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Sarthak05-code&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarthak05-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak05-code&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
