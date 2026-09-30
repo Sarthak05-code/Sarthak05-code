@@ -2,7 +2,7 @@
 
 <h3 align="center">
 
-  A beginner backend developer learning Java, Spring Boot, Go, and building things from scratch
+A beginner backend developer learning Java, Spring Boot, Go, and building things from scratch
 
 </h3>
 
@@ -20,13 +20,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Education:** BCA student based in **Kathmandu, Nepal** 🇳🇵
+* 🎓 **Education:** BCA student based in **Kathmandu, Nepal** 🇳🇵
 
-- 🌱 **Currently Learning:** **Java**, **Spring Boot**, and **Go**
+* 🌱 **Currently Learning:** **Java**, **Spring Boot**, and **Go**
 
-- 🛠️ **Philosophy:** I enjoy recreational programming and building full-stack projects to learn by doing.
+* 🛠️ **Philosophy:** I enjoy recreational programming and building full-stack projects to learn by doing.
 
-- 🚀 **Next on my list:** **React**, **MySQL**, and **Networking**
+* 🚀 **Next on my list:** **React**, **MySQL**, and **Networking**
 
 ---
 
@@ -71,73 +71,102 @@
 
 > A freelance task bidding platform featuring robust role-based access control.
 
-- **Roles:** Client, Freelancer, and Admin
+* **Roles:** Client, Freelancer, and Admin
 
-- **Key Features:** Role-specific dashboards, dynamic project bidding, proposal tracking, and bid management
+* **Key Features:** Role-specific dashboards, dynamic project bidding, proposal tracking, and bid management
 
-- **Documentation:** Fully documented architecture with ER diagrams, DFDs, and use case diagrams
+* **Documentation:** Fully documented architecture with ER diagrams, DFDs, and use case diagrams
 
-- **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
+* **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
 
 #### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
 
 > A dual-portal administrative and student management ecosystem built with Java and Spring Boot.
 
-- **Portals:** Admin Portal and Student Portal
+* **Portals:** Admin Portal and Student Portal
 
-- **Key Features:** Daily attendance monitoring, financial ledger and fee management with automatic overdue detection, and a real-time notice board
+* **Key Features:** Daily attendance monitoring, financial ledger and fee management with automatic overdue detection, and a real-time notice board
 
-- **Backend:** `Java`, `Spring Boot`, `Spring Data JPA`
+* **Backend:** `Java`, `Spring Boot`, `Spring Data JPA`
 
-- **Frontend:** `Thymeleaf`, `HTML5`, `CSS3`
+* **Frontend:** `Thymeleaf`, `HTML5`, `CSS3`
 
-- **Database:** `MySQL`
+* **Database:** `MySQL`
 
-- **Additional Tools:** `Git`, `GitHub Actions`
+* **Additional Tools:** `Git`, `GitHub Actions`
 
 #### 🟢 [Database Backup & Recovery Hub](https://github.com/Sarthak05-code/databaseRecovery-app)
 
 > A production-ready, high-performance database management utility written in Go for automated MySQL/MariaDB backups and disaster recovery.
 
-- **Dual run modes** — CLI for terminal/cron operations and a local web dashboard for interactive management
-- **Streaming gzip compression** — Directly streams dump output into `.sql.gz` archives, avoiding large intermediate files
-- **Secure credential handling** — Supports `DB_PASSWORD` env var, hidden terminal prompts, and masked web-form inputs
-- **Concurrency protection** — Uses `dbbackup_operation.lock` to prevent simultaneous operations
-- **Graceful interruption handling** — Cleans up locks and temp files before exiting on `Ctrl+C`
-- **Slack notifications** — Optional operation completion alerts via incoming webhooks
+* **Dual run modes** — CLI for terminal/cron operations and a local web dashboard for interactive management
 
-- **Tech Stack:** `Go`, `Cobra CLI`, `MySQL/MariaDB`, `HTML5`, `JavaScript`
+* **Streaming gzip compression** — Directly streams dump output into `.sql.gz` archives, avoiding large intermediate files
+
+* **Secure credential handling** — Supports `DB_PASSWORD` env var, hidden terminal prompts, and masked web-form inputs
+
+* **Concurrency protection** — Uses `dbbackup_operation.lock` to prevent simultaneous operations
+
+* **Graceful interruption handling** — Cleans up locks and temp files before exiting on `Ctrl+C`
+
+* **Slack notifications** — Optional operation completion alerts via incoming webhooks
+
+* **Tech Stack:** `Go`, `Cobra CLI`, `MySQL/MariaDB`, `HTML5`, `JavaScript`
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
+<div align="center">
+
+<img width="49%"
+ src="https://github.com/Sarthak05-code/github-stats/blob/generated/overview.svg#gh-dark-mode-only"
+ alt="GitHub Statistics" />
+
+<img width="49%"
+ src="https://github.com/Sarthak05-code/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
+ alt="GitHub Languages" />
+
+<img width="49%"
+ src="https://github.com/Sarthak05-code/github-stats/blob/generated/overview.svg#gh-light-mode-only"
+ alt="GitHub Statistics" />
+
+<img width="49%"
+ src="https://github.com/Sarthak05-code/github-stats/blob/generated/languages.svg#gh-light-mode-only"
+ alt="GitHub Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%"
+    src="https://streak-stats.demolab.com?user=Sarthak05-code&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak" />
+</div>
+
+<br/>
+
 <p align="center">
-  <a href="https://github.com/Sarthak05-code">
-    <img src="https://komarev.com/ghpvc/?username=Sarthak05-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sarthak05-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"
+    alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak05-code&theme=tokyo-night&hide_border=true&area=true"
+    alt="Activity Graph" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/jstrieb/github-stats">
+    <sub>GitHub statistics generated by jstrieb/github-stats</sub>
   </a>
-</p>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sarthak05-code&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarthak05-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak05-code&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
