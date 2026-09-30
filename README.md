@@ -125,32 +125,10 @@ A beginner backend developer learning Java, Spring Boot, Go, and building things
 
 <div align="center">
   <img
-    width="49%"
-    src="https://github.com/Sarthak05-code/github-stat/blob/generated/overview.svg#gh-dark-mode-only"
-    alt="GitHub Stats"
+    width="70%"
+    src="https://github.com/Sarthak05-code/github-stat/blob/generated/languages.svg"
+    alt="Most Used Languages"
   />
-
-<img
- width="49%"
- src="https://github.com/Sarthak05-code/github-stat/blob/generated/languages.svg#gh-dark-mode-only"
- alt="Most Used Languages"
-/>
-
-</div>
-
-<div align="center">
-  <img
-    width="49%"
-    src="https://github.com/Sarthak05-code/github-stat/blob/generated/overview.svg#gh-light-mode-only"
-    alt="GitHub Stats"
-  />
-
-<img
- width="49%"
- src="https://github.com/Sarthak05-code/github-stat/blob/generated/languages.svg#gh-light-mode-only"
- alt="Most Used Languages"
-/>
-
 </div>
 
 <div align="center">
@@ -178,10 +156,4 @@ A beginner backend developer learning Java, Spring Boot, Go, and building things
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak05-code&theme=tokyo-night&hide_border=true&area=true"
     alt="Activity Graph"
   />
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by — always open to feedback on my projects! 🚀</i>
 </p>
