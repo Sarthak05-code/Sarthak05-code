@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sarthak Thapa</h1>
 
 <h3 align="center">
-
-A beginner backend developer learning Java, Spring Boot, Go, and building things from scratch
-
+  BCA student learning backend development with Java, Spring Boot, and Go
 </h3>
 
 <p align="center">
@@ -13,133 +11,130 @@ A beginner backend developer learning Java, Spring Boot, Go, and building things
       alt="GitHub Profile"
     />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sarthak05-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Sarthak05-code&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 **Education:** BCA student based in **Kathmandu, Nepal** 🇳🇵
-
-* 🌱 **Currently Learning:** **Java**, **Spring Boot**, and **Go**
-
-* 🛠️ **Philosophy:** I enjoy recreational programming and building full-stack projects to learn by doing.
-
-* 🚀 **Next on my list:** **React**, **MySQL**, and **Networking**
+* 🎓 **BCA student** based in **Kathmandu, Nepal** 🇳🇵
+* 🌱 Currently learning **Java, Spring Boot, and Go**
+* 🛠️ Interested in **backend development, databases, and system design**
+* 🔨 I learn by building projects from scratch and experimenting with different technologies
+* 📚 Exploring **React, PostgreSQL, and computer networking**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🖥️ Backend & Languages</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🗄️ Database & Frontend</h4>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚙️ Frameworks & Tools</h4>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Actions" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>📚 Currently Learning</h4>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    </td>
-  </tr>
-</table>
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Cobra%20CLI-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Cobra CLI" />
+</p>
+
+### 🗄️ Databases & Web
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🟢 [BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)
+### 🟢 [BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)
 
-> A freelance task bidding platform featuring robust role-based access control.
+A freelance task-bidding platform developed as a college project.
 
 * **Roles:** Client, Freelancer, and Admin
+* **Features:** Task management, bidding, proposal tracking, bid management, and role-based dashboards
+* **Documentation:** ER diagrams, DFDs, use case diagrams, and system design documentation
+* **Tech Stack:** `PHP`, `MySQL`, `HTML5`, `CSS3`, `JavaScript`
 
-* **Key Features:** Role-specific dashboards, dynamic project bidding, proposal tracking, and bid management
+---
 
-* **Documentation:** Fully documented architecture with ER diagrams, DFDs, and use case diagrams
+### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
 
-* **Tech Stack:** `PHP` (Vanilla), `MySQL`, `HTML5`, `CSS3`
+A web-based hostel management system built with Java and Spring Boot.
 
-#### 🟢 [Hostel Management System](https://github.com/Sarthak05-code/hostel-management-system)
-
-> A dual-portal administrative and student management ecosystem built with Java and Spring Boot.
-
-* **Portals:** Admin Portal and Student Portal
-
-* **Key Features:** Daily attendance monitoring, financial ledger and fee management with automatic overdue detection, and a real-time notice board
-
+* **Portals:** Admin and Student
+* **Features:** Attendance monitoring, fee management, overdue tracking, and notice board
 * **Backend:** `Java`, `Spring Boot`, `Spring Data JPA`
-
 * **Frontend:** `Thymeleaf`, `HTML5`, `CSS3`
-
 * **Database:** `MySQL`
+* **Tools:** `Git`, `GitHub Actions`
 
-* **Additional Tools:** `Git`, `GitHub Actions`
+---
 
-#### 🟢 [Database Backup & Recovery Hub](https://github.com/Sarthak05-code/databaseRecovery-app)
+### 🟢 [Database Backup & Recovery Hub](https://github.com/Sarthak05-code/databaseRecovery-app)
 
-> A production-ready, high-performance database management utility written in Go for automated MySQL/MariaDB backups and disaster recovery.
+A Go-based utility for MySQL/MariaDB database backup and recovery.
 
-* **Dual run modes** — CLI for terminal/cron operations and a local web dashboard for interactive management
-
-* **Streaming gzip compression** — Directly streams dump output into `.sql.gz` archives, avoiding large intermediate files
-
-* **Secure credential handling** — Supports `DB_PASSWORD` env var, hidden terminal prompts, and masked web-form inputs
-
-* **Concurrency protection** — Uses `dbbackup_operation.lock` to prevent simultaneous operations
-
-* **Graceful interruption handling** — Cleans up locks and temp files before exiting on `Ctrl+C`
-
-* **Slack notifications** — Optional operation completion alerts via incoming webhooks
-
+* **Dual modes:** CLI and local web dashboard
+* **Compression:** Streaming `.sql.gz` backups without large intermediate dump files
+* **Credential handling:** Environment variables, hidden terminal prompts, and masked web inputs
+* **Concurrency protection:** Prevents simultaneous backup operations
+* **Graceful shutdown:** Cleans up locks and temporary files on interruption
+* **Notifications:** Optional Slack webhook notifications
 * **Tech Stack:** `Go`, `Cobra CLI`, `MySQL/MariaDB`, `HTML5`, `JavaScript`
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Sarthak05-code">
-    <img src="https://komarev.com/ghpvc/?username=Sarthak05-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
-<div align="center">
   <img
     width="70%"
-    src="https://github.com/Sarthak05-code/github-stat/blob/generated/languages.svg"
+    src="https://github-readme-stats.vercel.app/api?username=Sarthak05-code&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
-</div>
+</p>
 
-<div align="center">
-  <br/>
+<p align="center">
   <img
     width="70%"
     src="https://streak-stats.demolab.com?user=Sarthak05-code&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
   />
-</div>
+</p>
 
-<br/>
+---
 
-
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
