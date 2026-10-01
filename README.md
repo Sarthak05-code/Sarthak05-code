@@ -117,13 +117,13 @@ A Go-based utility for MySQL/MariaDB database backup and recovery.
   />
 </p>
 
-<p align="center">
+<div align="center">
   <img
     width="70%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak05-code&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github.com/Sarthak05-code/github-stat/blob/generated/languages.svg"
     alt="Most Used Languages"
   />
-</p>
+</div>
 
 <p align="center">
   <img
