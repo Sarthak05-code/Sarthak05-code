@@ -71,12 +71,12 @@
 
 ### 🟢 [BidBoard](https://github.com/Sarthak05-code/Freelance---BiddingSystem)
 
-A freelance task-bidding platform developed as a college project.
+A high-performance freelance task marketplace built with a **polyglot architecture (PHP + Rust)** without monolithic frameworks.
 
-* **Roles:** Client, Freelancer, and Admin
-* **Features:** Task management, bidding, proposal tracking, bid management, and role-based dashboards
-* **Documentation:** ER diagrams, DFDs, use case diagrams, and system design documentation
-* **Tech Stack:** `PHP`, `MySQL`, `HTML5`, `CSS3`, `JavaScript`
+* **Polyglot System Utilities:** Integrated a compiled **Rust** binary (`headless_chrome`) into the PHP backend to generate publication-quality HTML/CSS PDF reports in milliseconds.
+* **Core Workflows:** Multi-role access (Client, Freelancer, Admin), auto-reject bidding cascades, real-time AJAX search/pagination, and dual-mode PDF preview & download.
+* **Security & Reliability:** Session-isolated role management, CSRF protection, rate limiting, and automated SMTP notifications via PHPMailer.
+* **Tech Stack:** `PHP`, `Rust`, `MySQL`, `HTML5/CSS3`, `Vanilla JS (AJAX)`, `Chromium Engine`
 
 ---
 
