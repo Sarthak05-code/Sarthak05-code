@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sarthak Thapa</h1>
 
 <h3 align="center">
-  BCA student learning backend development with Java, Spring Boot, and Go
+  BCA student learning backend development with Java, Spring Boot, and Zig
 </h3>
 
 <p align="center">
